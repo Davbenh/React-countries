@@ -1,0 +1,17 @@
+.country {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 400px;
+    min-height: 200px;
+    background-color: rgb(55, 117, 230);
+    color: rgb(255, 255, 255);
+    margin: 50px;
+    padding: 0.5rem;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
